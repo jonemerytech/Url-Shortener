@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+
+{
+    "longUrl": "https://www.globalindustrial.com/p/storage/struts-and-framing/unistrut/global-industrial-hex-head-cap-screw-hhcs037150eg-3-8-16-x-1-1-2?infoParam.campaignId=T9F&gclid=Cj0KCQjwl8XtBRDAARIsAKfwtxBn0CcDMTrmSH_JKWw8ONRKwcmLou5euqvJIivcrPwp3i-N9yFFaJAaApZtEALw_wcB"
+}
